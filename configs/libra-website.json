@@ -1,10 +1,11 @@
 {
-  "index_name": "squirrelly",
+  "index_name": "libra-website",
   "start_urls": [
-    "https://squirrelly.js.org/docs/"
+    "https://libra-website.oriooctopus.now.sh/docs/",
+    "https://libra-website.oriooctopus.now.sh/docs/welcome-to-libra-v2"
   ],
   "sitemap_urls": [
-    "https://squirrelly.js.org/sitemap.xml"
+    "https://libra-website.oriooctopus.now.sh/sitemap.xml"
   ],
   "sitemap_alternate_links": true,
   "stop_urls": [],
@@ -24,15 +25,8 @@
   "selectors_exclude": [
     ".hash-link"
   ],
-  "custom_settings": {
-    "separatorsToIndex": "_",
-    "attributesForFaceting": [
-      "language",
-      "version"
-    ]
-  },
   "conversation_id": [
-    "1069419762"
+    "1176378229"
   ],
-  "nb_hits": 590
+  "nb_hits": 989
 }
